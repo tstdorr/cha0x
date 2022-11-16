@@ -378,3 +378,19 @@ libEGL warning: pci id for fd 159: 80ee:beef, driver (null)
 
 JavaScript warning: https://www.ford.com/adobedtmredirect/248d63c2ff6b/5e8baaa76508/launch-dda3f8250d58.min, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1668611758483	Marionette	INFO	Stopped listening on port 40495
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
