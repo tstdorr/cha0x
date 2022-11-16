@@ -1,0 +1,7 @@
+https:www.cisco.com
+https:www.wikipedia.org
+https:www.toyota.com
+https:www.audi.com
+https:www.sony.com
+https:www.kia.com
+https:www.ford.com
